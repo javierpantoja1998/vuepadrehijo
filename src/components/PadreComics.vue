@@ -23,7 +23,7 @@
   </div>
 </template>
 <script>
-import HijoComics from "./HijoComics.vue";
+import HijoComics from './HijoComics.vue';
 export default {
   name: "PadreComics",
   components: {

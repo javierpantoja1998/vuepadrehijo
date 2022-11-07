@@ -35,5 +35,5 @@ export default {
 };
 </script>
 <style scoped>
-@import "./assets/css/estilocomic.css";
+@import "./../assets/css/estilocomic.css";
 </style>
